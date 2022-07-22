@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kunaldev&" alt="its-kunaldev" /></p>
 
-<img align="center" width="400" alt="coding" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
+<img align="center" width="300" alt="coding" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
