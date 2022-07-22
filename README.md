@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Whenever, my friend solve any technical question, at that time I feel jealous🤨 and I think how null I am😂.**
 
-<img align="center" width="350" alt="coding" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif">
+<img align="center" width="300" alt="coding" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
