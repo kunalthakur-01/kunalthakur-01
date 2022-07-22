@@ -2,7 +2,7 @@
 <!-- <img align="center" width="500" alt="coding" src="https://www.picgifs.com/comment-gifs/w/welcome/picgifs-welcome-741555.gif"> -->
 <h1 align="center">Hi 👋, I'm kunal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kunaldev&label=Profile%20views&color=0e75b6&style=flat" alt="its-kunaldev" /> </p>
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Whenever, my friend solve any technical question, at that time I feel jealous🤨 and I think how null I am😂.**
 
-<img align="center" width="400" alt="coding" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif">
+<img align="center" width="350" alt="coding" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
