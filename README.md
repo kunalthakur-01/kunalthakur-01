@@ -1,5 +1,5 @@
-[![MasterHead](https://www.picgifs.com/comment-gifs/w/welcome/picgifs-welcome-741555.gif)](http://kunalthakur-01.io)
-<!-- <img align="center" width="500" alt="coding" src="https://www.picgifs.com/comment-gifs/w/welcome/picgifs-welcome-741555.gif"> -->
+<!-- [![MasterHead](http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif)](http://kunalthakur-01.io) -->
+<img align="center" width="100%" height="250" alt="coding" src="http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif">
 <h1 align="center">Hi 👋, I'm kunal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalthakur-01&" alt=kunalthakur-01" /></p>
 
-<img align="center" width="300" alt="coding" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
+<img align="center" width="100%" height="350" alt="coding" src="https://beautifulpixels.com/wp-content/uploads/2017/03/tr24032017-ladder-6.gif">
