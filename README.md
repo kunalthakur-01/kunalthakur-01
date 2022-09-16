@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalthakur-01&" alt=kunalthakur-01" /></p>
 
-<img align="center" width="100%" height="350" alt="coding" src="https://beautifulpixels.com/wp-content/uploads/2017/03/tr24032017-ladder-6.gif">
+<img align="center" width="400" alt="coding" src="https://beautifulpixels.com/wp-content/uploads/2017/03/tr24032017-ladder-6.gif">
