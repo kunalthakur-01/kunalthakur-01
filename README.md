@@ -1,7 +1,7 @@
 <!-- [![MasterHead](http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif)](http://kunalthakur-01.io) -->
 <img align="center" width="100%" height="250" alt="coding" src="http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif">
 <h1 align="center">Hi 👋, I'm kunal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">The MERN stack developer</h3>
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalthakur-01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalthakur-01" /> </p>
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Backend Developement**
 
-- 🌱 I’m currently learning **react.js, node.js, cloud computing**
+- 🌱 I’m currently learning **Blockchain, cloud computing**
 
-- 👯 I’m looking to collaborate on **Amazon internship programs**
+- 👯 I’m looking to collaborate on **Internship programms**
 
-- 💬 Ask me about **react, javascript, HTML5 and CSS3**
+- 💬 Ask me about **react, javascript, C++, HTML5 and CSS3**
 
 - 📫 How to reach me **13kunalthakur@gmail.com**
 
