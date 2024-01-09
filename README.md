@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/__13__kunal" target="blank"><img src="https://img.shields.io/twitter/follow/__13__kunal?logo=twitter&style=for-the-badge" alt="__13__kunal" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Java backend development**
 
-- 🌱 I’m currently learning **Data science, Data Analysis**
+- 🌱 I’m currently learning **Spring framework**
 
 - 👯 I’m looking to collaborate on **Internship programms**
 
-- 💬 Ask me about **React, Javascript, C++, Python and Data science**
+- 💬 Ask me about **React, Javascript, C++, Node.js, Mongodb, Redux**
 
 - 📫 How to reach me **13kunalthakur@gmail.com**
 
