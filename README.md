@@ -1,7 +1,7 @@
 <!-- [![MasterHead](http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif)](http://kunalthakur-01.io) -->
 <!-- <img align="center" width="100%" height="250" alt="coding" src="http://www.somkiat.cc/wp-content/uploads/2018/01/deadline.gif"> -->
 <h1 align="center">Hi 👋, I'm kunal</h1>
-<h3 align="center">The MERN stack developer</h3>
+<h3 align="center">The Software Developer</h3>
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalthakur-01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalthakur-01" /> </p>
